@@ -1,0 +1,17 @@
+﻿- Field1: Value1
+  List:
+    - !ChildClass1
+      Field1: Value1
+    - !ChildClass2
+      Field1: Value1
+      Field2: Value2
+
+- Field1: Value1
+  List:
+    - !ChildClass1
+      Field1: Value1
+    - !ChildClass2
+      Field1: Value1
+      Field2: Value2
+    - !ChildClass1
+      Field1: Value1
